@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<faceted-project>
+  <runtime name="Node Runtime 6.2.0"/>
+  <fixed facet="wst.jsdt.web"/>
+  <fixed facet="emt.phonegapapp"/>
+  <installed facet="wst.jsdt.web" version="1.0"/>
+  <installed facet="emt.phonegapapp" version="1.0"/>
+</faceted-project>
